@@ -25,10 +25,11 @@ Tools used:
 - Connect to Postgres (psycopg2)
 - Audit the data
 - For each table
-- Get row count
-- Extract all the rows
-- Transform the column name to lowercase 
-- convert the data types
-- Create tables in Postgres
+    - Get row count
+    - Extract all the rows
+    - Transform the column name to lowercase 
+    - convert the data types
+    - Create tables in Postgres
+    - Load tables into Postgres
 - Run post data migration check
 - Generate validation report 
